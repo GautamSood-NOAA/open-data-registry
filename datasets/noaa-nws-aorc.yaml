@@ -59,11 +59,11 @@ Description: |
   <br/>
   1) Air pressure (at the surface) (Pa)
   <br/>
-  **U-Component of Wind (UGRD_10maboveground)"
+  **U-Component of Wind (UGRD_10maboveground)**
   <br/>
-  1)U (west-east) - components of the wind (at 10 m AGL) (m s-1)
+  1) U (west-east) - components of the wind (at 10 m AGL) (m s-1)
   <br/>
-  **V-Component of Wind (VGRD_10maboveground)"
+  **V-Component of Wind (VGRD_10maboveground)**
   <br/>
   1) V (south-north) - components of the wind (at 10 m AGL) (m s-1)
   <br/>
